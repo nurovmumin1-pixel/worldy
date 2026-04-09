@@ -1,0 +1,15 @@
+@mixin aa() {
+    background-color: darkblue;
+    color: #ffff;
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.1);
+}
+
+nav {
+    div {
+         .d-flex {
+            button {
+               /* @include aa();*/
+            }
+        }
+    }
+}
